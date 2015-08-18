@@ -86,7 +86,11 @@ height:100.667px;
 font-size:20px; }
 #output{width: 291px;
 height: 450.667px;
-font-size:20px;}    
+font-size:20px;} 
+.footer p,
+.footer a{
+font-size:20px;   
+}
 }
 @media all and (max-width: 767px) and (min-width: 567px){
 textarea{width:467.67px;
