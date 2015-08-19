@@ -109,11 +109,11 @@ height: 250.667px;}
 textarea{width:1067.67px;
 height:100.667px;}
 #output{width: 1072px;
-height: 500.667px;}
+height: 300.667px;}
 }
 @media all and (min-width: 1600px){
 textarea{width:1167.67px;
 height:100.667px;}
-#output{width: 1172px;
-height: 600.667px;}
+#output{width: 1171px;
+height: 400.667px;}
 }
