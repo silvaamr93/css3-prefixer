@@ -85,7 +85,7 @@ textarea{width:287.67px;
 height:100.667px;
 font-size:20px; }
 #output{width: 291px;
-height: 450.667px;
+height: 300.667px;
 font-size:20px;} 
 .footer p,
 .footer a{
@@ -96,14 +96,14 @@ font-size:20px;
 textarea{width:467.67px;
 height:100.667px;font-size:20px;}
 #output{width: 472px;
-height: 300.667px;font-size:20px;}
+height: 250.667px;font-size:20px;}
 }
 
 @media all and (min-width: 768px)and (max-width: 991px){
 textarea{width:567.67px;
 height:100.667px;}
 #output{width: 572px;
-height: 300.667px;}
+height: 250.667px;}
 }
 @media all and (min-width: 1200px) and (max-width: 1600px){
 textarea{width:1067.67px;
