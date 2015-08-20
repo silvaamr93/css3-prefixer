@@ -95,15 +95,15 @@ font-size:20px;
 @media all and (max-width: 767px) and (min-width: 567px){
 textarea{width:467.67px;
 height:100.667px;font-size:20px;}
-#output{width: 272px;
-height: 250.667px;font-size:20px;}
+#output{width: 572px;
+height: 150.667px;font-size:20px;}
 }
 
 @media all and (min-width: 768px)and (max-width: 991px){
 textarea{width:567.67px;
 height:100.667px;}
-#output{width: 172px;
-height: 250.667px;}
+#output{width: 472px;
+height: 150.667px;}
 }
 @media all and (min-width: 1200px) and (max-width: 1600px){
 textarea{width:1067.67px;
@@ -115,5 +115,5 @@ height: 300.667px;}
 textarea{width:1167.67px;
 height:100.667px;}
 #output{width: 1171px;
-height: 400.667px;}
+height: 200.667px;}
 }
